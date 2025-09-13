@@ -8,7 +8,7 @@ Currently, I'm actively seeking internship opportunities in data engineering to 
 professionally.
 
 🔥 Skills  
-📌 Programming Languages: Python (Pandas, NumPy) & SQL  
+📌 Programming Languages: Python (Pandas, NumPy), SQL, ETL pipeline  
 📊 Data Science & AI: Data Extracting, Data Transforming ,Data loading
 
 📢 Connect With Me  
